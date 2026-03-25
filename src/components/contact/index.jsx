@@ -1,4 +1,3 @@
-import React from 'react'
 import { useTranslation } from 'react-i18next';
 
 export default function Contact() {
@@ -6,7 +5,7 @@ export default function Contact() {
   return (
     <div>
        <h1>{t('pagecontact.heading')} </h1>
-       <p>{t('pagecontact.text')}</p>
+       <p style={{ whiteSpace: "pre-line" }}>{t('pagecontact.text')}</p>
     </div>
   )
 }

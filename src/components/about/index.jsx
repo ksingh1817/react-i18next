@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { useTranslation } from 'react-i18next';
 
 export default function About() {
@@ -6,7 +6,7 @@ export default function About() {
   return (
     <div>
        <h1>{t('pageabout.heading')} </h1>
-       <p>{t('pageabout.text')}</p>
+       <p style={{ whiteSpace: "pre-line" }}>{t('pageabout.text')}</p>
     </div>
   )
 }
