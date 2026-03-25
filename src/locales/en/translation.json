@@ -11,19 +11,19 @@
     },
     "pagehome" : {
         "heading": "Home",
-        "text": "Home"
+        "text": "Welcome to our website!  \n We are excited to have you here.  \n Explore our services, learn more about us, and discover how we can help you achieve your goals.  \n Your journey starts here—let’s build something amazing together."
     },
     "pageabout" : {
         "heading": "About Us",
-        "text": "About Us"
+        "text": "We are a passionate team dedicated to building modern web applications that make life easier. Our mission is to deliver high-quality solutions with a focus on innovation, simplicity, and user experience. We believe in continuous learning, collaboration, and creating technology that empowers people everywhere."
     },
     "pagecontact" : {
         "heading": "Contact Us",
-        "text": "Contact Us"
+        "text": "You can reach us anytime for questions, feedback, or support.  \n\n Email: support@example.com  \n Phone: +1-234-567-890  \n Address: 123 Innovation Street, Tech City, USA  \n We look forward to hearing from you!"
     },
     "pageservice" : {
         "heading": "Our Services",
-        "text": "Our Services"
+        "text": "We provide a wide range of services to help businesses grow and succeed.  \n\n Our offerings include:  \n - Web and mobile application development  \n - Cloud solutions and digital transformation  \n - UI/UX design and branding  \n - Technical consulting and support  \n\n Our goal is to deliver innovative, reliable, and cost-effective solutions tailored to your needs."
     }
 
 }
